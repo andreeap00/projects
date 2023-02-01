@@ -1,0 +1,25 @@
+#parDog{font-family:Brush Script MT;color:#0000b3;font-size:h2}
+#parHorse{font-family:Brush Script MT;color:#6600cc;font-size:h2}
+
+a:link {
+  color: black;
+  text-decoration: none;
+}
+ 
+/* visited link */
+a:visited {
+  color: #0066cc;
+  text-decoration: none;
+}
+ 
+/* mouse over link */
+a:hover {
+  color: #ff80ff;
+  text-decoration: none;
+}
+ 
+/* selected link */
+a:active {
+  color: #cc00ff;
+  text-decoration: none;
+}
