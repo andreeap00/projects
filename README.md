@@ -22,4 +22,4 @@ Animal-Based Therapy for Children with Disabilities
 
 Medical Devices Management System
 - is a web-site connected to MongoDB (Cloud);
-- used technology: JavaScript, EJS, HTML, CSS, MongoDB
+- used technology: JavaScript, EJS, HTML, CSS, MongoDB 
