@@ -1,6 +1,16 @@
 # projects
 The projects in the repository:
 
+Car Pieces Management System 
+- is a web-site connected to MongoDB (Cloud); 
+- used technology: JavaScript, EJS, HTML, CSS, MongoDB;
+- used programs: Postman, Atlas - MongoDB Cloud, JSON Web Token - https://jwt.io/
+
+Animal Adoption System
+- desktop app where the user inserts the data of the animal to be adopted; an adoption certificate is generated;
+- used technology: Java
+- design pattern: MVC
+
 Security Alert System 
 - detects and signals the presence of possible thieves; 
 - used technology: Arduino, PIR sensor, buzzer, LCD, LEDs
